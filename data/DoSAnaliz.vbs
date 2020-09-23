@@ -1,0 +1,1 @@
+msgbox ("Are you sure? MIT license protects the creator from all damages caused by this script. Just press "Ok" or "accept" if you are sure. Otherwise close the script"),64,("DoS System")

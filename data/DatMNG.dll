@@ -1,0 +1,6 @@
+set DataMNG.dll 
+else if {pass.iprandom.lsass.exe} 
+if {onlyPing>><==<no}
+function DatMNG>DataManage
+if {current.session.bat>=mng.here}
+	else [noopenfile]
